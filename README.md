@@ -1,4 +1,4 @@
-# DER_ControlPrivateTimeSeries
+# Energy Resource Control via Privacy Preserving Data
 Energy resource control with private purterbed timeseries data 
 
 ## Setup and Dependencies
