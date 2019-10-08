@@ -13,7 +13,7 @@ if using GPU, setup CUDA (optional).
 
 ---
 
-This repo contains the experiments in the following paper "Energy Resource Control via Privacy Preserving Data". 
+This repo contains the experiments in the following paper "Energy Resource Control via Privacy Preserving Data". [arxiv link](https://arxiv.org/abs/1910.02157) 
 
 ```bibtex
 @misc{chen2019energy,
