@@ -1,6 +1,7 @@
 # Energy Resource Control via Privacy Preserving Data
 Energy resource control with private purterbed timeseries data 
 
+
 ## Setup and Dependencies
 
 + Python 3.x/numpy/scipy/[cvxpy](http://www.cvxpy.org/en/latest/)
@@ -9,6 +10,22 @@ Energy resource control with private purterbed timeseries data
 + matplotlib, seaborn (optional)
 
 if using GPU, setup CUDA (optional).
+
+---
+
+This repo contains the experiments in the following paper "Energy Resource Control via Privacy Preserving Data". 
+
+```bibtex
+@misc{chen2019energy,
+    title={Energy Resource Control via Privacy Preserving Data},
+    author={Xiao Chen and Thomas Navidi and Ram Rajagopal},
+    year={2019},
+    eprint={1910.02157},
+    archivePrefix={arXiv},
+    primaryClass={eess.SY}
+}
+```
+
 
 ---
 
