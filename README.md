@@ -4,7 +4,8 @@ Energy resource control with private purterbed timeseries data
 
 ## Setup and Dependencies
 
-+ Python 3.x/numpy/scipy/[cvxpy](http://www.cvxpy.org/en/latest/)
++ Python 3.x/numpy/scipy/
++ [cvxpy](http://www.cvxpy.org) (We use v0.4.1, but should be able to run at v1.0 with minor tweaks)
 + [PyTorch](https://pytorch.org) >= 0.4.1  [recommend version >=1.1.0]
 + pandas >= 23.0
 + matplotlib, seaborn (optional)
