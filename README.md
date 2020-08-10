@@ -17,7 +17,19 @@ if using GPU, setup CUDA (optional).
 This repo contains the experiments in the following paper "Energy Resource Control via Privacy Preserving Data". [arxiv link](https://arxiv.org/abs/1910.02157) 
 
 ```bibtex
-@misc{chen2019energy,
+@article{chen2020energy,
+  title={Energy resource control via privacy preserving data},
+  author={Chen, Xiao and Navidi, Thomas and Rajagopal, Ram},
+  journal={Electric Power Systems Research},
+  volume={189},
+  pages={106719},
+  year={2020},
+  publisher={Elsevier}
+}
+```
+ 
+ <!--
+@article{chen2019energy,
     title={Energy Resource Control via Privacy Preserving Data},
     author={Xiao Chen and Thomas Navidi and Ram Rajagopal},
     year={2019},
@@ -25,8 +37,7 @@ This repo contains the experiments in the following paper "Energy Resource Contr
     archivePrefix={arXiv},
     primaryClass={eess.SY}
 }
-```
-
+-->
 
 ---
 
